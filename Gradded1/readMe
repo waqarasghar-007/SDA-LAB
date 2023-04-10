@@ -1,0 +1,9 @@
+Draw a class Diagram with class relations
+In Hospital management system users can login as doctor and patient and provide authentication to
+users. Patient can book appointment. There are several departments in hospital like ENT, Cardiac,
+Orthopedic, neurology and so on. Hospital is providing services of medicine and surgery. Patient can
+view their profile as detail, make payment, take drugs and receive their reports. Doctor can check
+patient, suggest drugs, view repots and manage their other responsibilities. Staff assist patient and
+doctors, also get payment from patient and provide drug to patient. Administrator manage doctor and
+Staff records using crud operations manage their timetable and salaries. This system will store record
+of all users, administrator and drugs that staff gives to patients.
